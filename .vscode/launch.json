@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/Perkuliahan/smt2/Struktur_Data/Pertemuan_9",
-      "program": "/root/Perkuliahan/smt2/Struktur_Data/Pertemuan_9/build/Debug/outDebug",
+      "cwd": "c:/Users/Acer/Documents",
+      "program": "c:/Users/Acer/Documents/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
