@@ -11,7 +11,7 @@ using namespace std;
 * `#include <string>`: Digunakan untuk tipe data string.
 
 * `using namespace std;`: Digunakan untuk mempermudah penggunaan objek dan fungsi yang terdapat dalam namespace `std`.
-
+ 
 ### Fungsi `clearScreen()`
 ~~~
 void clearScreen() {
